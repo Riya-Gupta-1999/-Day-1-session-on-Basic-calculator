@@ -1,0 +1,15 @@
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.csproj.AssemblyReference.cache
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.AssemblyInfoInputs.cache
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.AssemblyInfo.cs
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.csproj.CoreCompileInputs.cache
+E:\tutorial\day2Interface\bin\Debug\net6.0\day2Interface.exe
+E:\tutorial\day2Interface\bin\Debug\net6.0\day2Interface.deps.json
+E:\tutorial\day2Interface\bin\Debug\net6.0\day2Interface.runtimeconfig.json
+E:\tutorial\day2Interface\bin\Debug\net6.0\day2Interface.dll
+E:\tutorial\day2Interface\bin\Debug\net6.0\ref\day2Interface.dll
+E:\tutorial\day2Interface\bin\Debug\net6.0\day2Interface.pdb
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.dll
+E:\tutorial\day2Interface\obj\Debug\net6.0\ref\day2Interface.dll
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.pdb
+E:\tutorial\day2Interface\obj\Debug\net6.0\day2Interface.genruntimeconfig.cache
