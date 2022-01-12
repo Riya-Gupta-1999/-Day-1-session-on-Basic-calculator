@@ -1,0 +1,15 @@
+E:\tutorial\BASICLEARNING\bin\Debug\net6.0\BASICLEARNING.exe
+E:\tutorial\BASICLEARNING\bin\Debug\net6.0\BASICLEARNING.deps.json
+E:\tutorial\BASICLEARNING\bin\Debug\net6.0\BASICLEARNING.runtimeconfig.json
+E:\tutorial\BASICLEARNING\bin\Debug\net6.0\BASICLEARNING.dll
+E:\tutorial\BASICLEARNING\bin\Debug\net6.0\ref\BASICLEARNING.dll
+E:\tutorial\BASICLEARNING\bin\Debug\net6.0\BASICLEARNING.pdb
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.csproj.AssemblyReference.cache
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.GeneratedMSBuildEditorConfig.editorconfig
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.AssemblyInfoInputs.cache
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.AssemblyInfo.cs
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.csproj.CoreCompileInputs.cache
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.dll
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\ref\BASICLEARNING.dll
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.pdb
+E:\tutorial\BASICLEARNING\obj\Debug\net6.0\BASICLEARNING.genruntimeconfig.cache
